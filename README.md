@@ -15,6 +15,7 @@ on [this dataset website](https://nlp.stanford.edu/projects/tacred/).
 - unzip, wget (for downloading only)
 
 
+
 ## Preparation
 
 Download and unzip GloVe vectors from the Stanford website, and prepare vocabulary and initial word vectors with:
